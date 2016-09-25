@@ -1,0 +1,6 @@
+development:
+      clients:
+        default:
+          database: cms
+          hosts:
+            - localhost:27017
